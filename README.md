@@ -1,4 +1,4 @@
-# Ayudant-as-bootcamp-0076
+# Ayudantias-bootcamp-0076
 Documentación | Materiales educativos | ejercicios
 
 En este repositorio tendrás lo siguiente:
